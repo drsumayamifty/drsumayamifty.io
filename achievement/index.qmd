@@ -1,6 +1,5 @@
 ---
 title: "Achievements"
-image: ../img/.jpg
 ---
 
 ## Achievements
