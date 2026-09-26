@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "**Dr. Sumaya Khan Mifty**"
+  image: "img/dp.jpg"
+  favicon: "img/favicon.png"
+  description: "Academic Website for Dr. Sumaya Khan Mifty"
+
+  page-footer:
+    left: "&copy; Copyright 2026, Author"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+    search: false
+    contents:
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Leadership & Impact"
+        href: leadership_impact/index.qmd
+      - text: "Achievements"
+        href: achievement/index.qmd 
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true

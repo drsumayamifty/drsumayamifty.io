@@ -1,2 +1,2 @@
-# drsumayamifty.io
-Website for Sumaya Khan Mifty
+# academic-website-template
+Template for Academic Website

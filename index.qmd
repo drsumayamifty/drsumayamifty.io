@@ -1,0 +1,35 @@
+---
+title: "Dr. Sumaya Khan Mifty"
+image: img/dp.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:sumayamifty96@gmail.com   
+    - icon: linkedin
+      href: https://linkedin.com/in/sumaya-khan-mifty-123720336
+      target: _blank
+    - icon: github
+      href: https://github.com/drsumayamifty
+      target: _blank
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0009-0003-5585-9787
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?hl=en&user=o3CYmEAAAAAJ
+      target: _blank
+    
+---
+
+::: {#hero-heading}
+
+**Dr. Sumaya Khan Mifty, MBBS** is a physician and researcher at the intersection of *genomics, bioinformatics and precision medicine*.
+
+Her work explores how genetic and clinical data can be translated into better understanding of disease and more individualized healthcare, with a particular interest in cardiovascular genetics and precision cardiology. She has research experience spanning clinical epidemiology, biomedical data science, and multidisciplinary collaborative research.
+
+Beyond her own research, she is passionate about building research capacity and mentoring early-career researchers. Her long-term vision is to bridge clinical medicine with computational and genomic science to advance data-driven, patient-centered medicine.
+
+
+:::
