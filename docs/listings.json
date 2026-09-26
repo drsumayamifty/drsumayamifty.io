@@ -6,5 +6,12 @@
       "/projects/project_1/index.html",
       "/projects/project_2/index.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/post-with-code/index.html",
+      "/blog/welcome/index.html"
+    ]
   }
 ]
