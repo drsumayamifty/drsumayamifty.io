@@ -27,9 +27,9 @@ website:
       - text: "Publications"
         href: publications/index.qmd
       - text: "Leadership & Impact"
-        href: leadership_impact/index/
+        href: leadership_impact/index.qmd
       - text: "Achievements"
-        href: "achievement/index.html"
+        href: achievement/index.qmd
 format:
   html:
     theme: cosmo
