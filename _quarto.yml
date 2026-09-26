@@ -29,7 +29,7 @@ website:
       - text: "Leadership & Impact"
         href: leadership_impact/index/
       - text: "Achievements"
-        href: achievement/index/ 
+        href: achievement/ 
 format:
   html:
     theme: cosmo
