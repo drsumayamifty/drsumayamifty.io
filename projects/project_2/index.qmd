@@ -1,7 +1,56 @@
 ---
-title: "project_2"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma"
+description: |
+  Analysis of single-cell RNA sequencing data to characterize immune cell populations,
+  tumour microenvironment changes, and molecular patterns associated with cervical carcinoma.
+image: ../../img/umap_marker_genes.png
+categories:
+  - Bioinformatics
+  - Single-cell RNA-seq
+  - Cancer Immunology
 ---
+## Overview
 
-In this project I work on Machine Learning methods to predict in-hospital mortality. 
+This project investigates immune remodelling in cervical carcinoma using single-cell RNA sequencing (scRNA-seq) analysis.
+
+The workflow includes preprocessing of single-cell transcriptomic data, quality control, normalization, clustering, cell type annotation, differential expression analysis, and immune microenvironment characterization.
+
+## Objectives
+
+- Identify major cell populations in cervical carcinoma samples.
+- Characterize immune cell infiltration patterns.
+- Explore transcriptional changes associated with tumour progression.
+- Identify potential immune-related molecular signatures.
+
+## Methods
+
+The analysis pipeline includes:
+
+- Single-cell RNA sequencing data processing
+- Quality control and filtering
+- Dimensionality reduction using PCA and UMAP
+- Cell clustering
+- Marker gene identification
+- Cell type annotation
+- Differential expression analysis
+
+## Tools and Technologies
+
+- R
+- Single-cell RNA sequencing analysis
+- Bioinformatics workflows
+- Data visualization
+
+## Repository
+
+Source code and analysis files are available on GitHub:
+
+[View GitHub Repository](https://github.com/drsumayamifty/sc_rnaseq_immune_remodelling_cervical_carcinoma)
+
+## Results
+
+The analysis provides insights into cellular heterogeneity and immune landscape changes within cervical carcinoma tissues.
+
+## Publication / Research Context
+
+This project contributes to understanding tumour immune interactions through computational analysis of single-cell transcriptomic data.

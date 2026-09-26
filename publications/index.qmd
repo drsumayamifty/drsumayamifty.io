@@ -5,26 +5,24 @@ subtitle: "List of publications"
 
 ## Peer-reviewed 
 
-1. Ahmed, M. Z., Billah, M. M., Ferdous, J., & **Hossain, M. J.**\* (2025). Pan-cancer analysis reveals immunological and prognostic significance of CCT5 in human tumors. *Scientific Reports, 15*, 14405. <https://doi.org/10.1038/s41598-025-88339-z>
+1. Khalil, I., Islam, M. R., Promi, S. A., Joy, A. D., Sayed, M. A., Acharjee, D., Al-Shammari, A. S., Rahman, M. T., Abrar, S., Bin Jamil, T.-S., Taseen, M., Biswas, S., **Mifty, S. K.**, Al-Badri, S. G., Debnath, A., Hossain, M. I., & Akter, M. M. (2026). Comparative effectiveness of cholesteryl ester transfer protein (CETP) inhibitors on cardiovascular outcomes: A comprehensive Bayesian network meta-analysis and network meta-regression. Medicine, 105(20), e48627. <https://doi.org/10.1097/MD.0000000000048627>
 
-2. Fariha, F. T. J., Fuad, M., Saha, C. S., Hossen, S., & **Hossain, M. J.**\* (2025). Comprehensive bioinformatics analysis reveals prognostic significance and immunological roles of WNT gene family in breast cancer. *Scientific Reports, 15*, 34490. <https://doi.org/10.1038/s41598-025-13315-6>
+2. S. I. Chowdhury, **S. K. Mifty**, T. A. R. Khan, et al., “ Tolosa–Hunt Syndrome Presenting as Painful Unilateral Ophthalmoplegia in a 65-Year-Old Woman: A Case Report,” Clinical Case Reports 14, no. 2 (2026): e72012, <https://doi.org/10.1002/ccr3.72012>
+
+3. **S. K. Mifty**, S. I. Chowdhury, T. Rahman, et al., “ A Forgotten Foe Returns: The Diagnostic Odyssey of Kala-Azar Masquerading as Myelodysplastic Syndrome in a Post-Elimination Era,” Clinical Case Reports 13, no. 11 (2025): e71402, <https://doi.org/10.1002/ccr3.71402>
+
+4. Chowdhury, S. I., Taj, F. Y., Esha, S. N., **Mifty, S. K.**, & Khalil, I. (2025). Challenging diagnosis of adult-onset still’s disease (AOSD) in a young male: a case report highlighting the importance of early recognition and management. Annals of Medicine & Surgery, 87(10), 6712–6718. <https://doi.org/10.1097/MS9.0000000000003752>
+
+5. Khalil, I., Islam, M.R., Promi, S.A., Joy, A.D., Sayed, M.A., Acharjee, D., Al-shammari, A.S., Abrar, S., Jamil, T.-S.B., Taseen, M., Biswas, S., **Mifty, S.K.**, Al-Badri, S.G., Debnath, A., Hossain, M.I. and Akter, M. (2025), Comparative Effectiveness of Cholesteryl Ester Transfer Protein (CETP) Inhibitors on Lipid Profiles in Adults With Hyperlipidemia: A Comprehensive Systematic Review and Frequentist Network Meta-Analysis of Randomized Controlled Trials. Clinical Cardiology, 48: e70204. <https://doi.org/10.1002/clc.70204>
 
 ## Under Review
-1. Islam, M. W., Rahman, M. M., Naznin, H., Hossain, M. S., Akter, T., Shatabde, Z. A., & **Hossain, M. J.**\* (2025). Integrative bioinformatics analysis reveals COL13A1 and COL23A1 as potential diagnostic and prognostic biomarkers in thyroid cancer. [Submitted to Health Science Reports].
 
-2. Islam, M. W., Fariha, F. T. J., Ahmed, M. Z., Ferdous, J., Lota, H. B., Hossain, M. S., Kundu, P., Shahjahan, M., & **Hossain, M. J.**\* (2025). Bioinformatics-driven multi-omics profiling of CDK1 and CDK6 identifies prognostic and therapeutic roles in breast cancer.[Under Review in Health Science Reports].
 
 
 ## Conference 
 
 ### Poster Presentations
 
-1. ^+^Hossain, M. J., Das, M. (2024). Diagnostic and Electrophysiological Features of Hirayama Disease in Young Adult Male: A Case Report. International Conference of Public Health, Institute of Epidemiology, Disease Control and Research (IEDCR), Dhaka, Bangladesh
-
-2. ^+^Das, M., Kajol, M. M., Mim, N. A., Maruf, M. F. I., Hirko, K., ^\*^**Hossain, M. J.** (2024). Level of knowledge regarding breast cancer and breast self‑examination among school and college‑going girls in Bangladesh: A cross‑sectional study. International Conference of Public Health, Institute of Epidemiology, Disease Control and Research (IEDCR), Dhaka, Bangladesh
 
 ### Oral Presentations
 
-1. ^+^Tuhin, M. A. A., Mim, N. A., Akter, N., Jamal, F., Sakib, M. N., Mehjabin, K., ^\*^**Hossain, M. J.** (2024). Exploring the Factors Influencing Heat Stress Risks Using the Discomfort Index Method in Bangladesh. International Conference on Environmental Science and Resource Management 2024 (ICESRM 2024), Department of Environmental Science and Resource Management, Mawlana Bhashani Science and Technology University, Bangladesh.
-
-2. Mim, N. A., Akter, Tuhin, M. A. A., ^+^Hossain, S., Alam, K. E., Mouli, N. J., ^\*^**Hossain, M. J.** (2024). Temporal Trends and Factors Influencing Diarrhea Prevalence Among Children in the Rangamati Hill Tract Region: A Time Series Analysis. International Conference on Environmental Science and Resource Management 2024 (ICESRM 2024), Department of Environmental Science and Resource Management, Mawlana Bhashani Science and Technology University, Bangladesh.

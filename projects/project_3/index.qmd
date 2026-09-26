@@ -1,0 +1,61 @@
+---
+title: "Cardiomyopathy Bulk RNA-seq Meta-analysis"
+description: |
+  Integrated analysis of bulk RNA sequencing datasets to identify gene expression
+  signatures and molecular pathways associated with cardiomyopathy.
+image: ../../img/volcano_plot 2.png
+categories:
+  - Bioinformatics
+  - Bulk RNA-seq
+  - Cardiovascular Research
+---
+## Overview
+
+This project performs a bulk RNA sequencing meta-analysis to investigate molecular changes associated with cardiomyopathy.
+
+The workflow integrates transcriptomic datasets to identify differentially expressed genes, biological pathways, and potential molecular signatures related to cardiac disease.
+
+## Objectives
+
+- Identify differentially expressed genes associated with cardiomyopathy.
+- Integrate multiple bulk RNA-seq datasets.
+- Explore biological pathways involved in cardiac dysfunction.
+- Characterize molecular mechanisms underlying cardiomyopathy.
+
+## Methods
+
+The analysis workflow includes:
+
+- RNA-seq dataset collection and preprocessing
+- Quality assessment
+- Expression normalization
+- Differential gene expression analysis
+- Functional enrichment analysis
+- Pathway analysis
+- Data visualization
+
+## Tools and Technologies
+
+- R programming
+- Bioconductor packages
+- Bulk RNA-seq analysis workflows
+- Differential expression analysis
+- Statistical genomics
+
+## Key Analysis Components
+
+The project investigates:
+
+- Gene expression differences between cardiomyopathy and control samples
+- Biological processes associated with cardiac remodeling
+- Potential candidate genes and pathways for further investigation
+
+## Repository
+
+The complete analysis workflow and source code are available on GitHub:
+
+[View GitHub Repository](https://github.com/drsumayamifty/Cardiomyopathy_bulk_RNAseq_meta_analysis)
+
+## Research Context
+
+Bulk RNA-seq meta-analysis provides a computational approach to integrate transcriptomic datasets and understand molecular alterations associated with cardiovascular diseases.

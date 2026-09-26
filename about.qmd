@@ -1,33 +1,75 @@
 ---
 title: "Author"
-image: profile.png
+image: img/SK.png
 about:
   id: hero-heading
   template: trestles
   image-shape: rectangle
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/sumaya-khan-mifty-123720336/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/drsumayamifty
 ---
 
 ::: {#hero-heading}
 
-## Education 
+## About
 
-University of Oslo | Oslo, Norway
+From lecture halls to operating theatres, and now to code, data, and research.
 
-PhD in Biostatistics | Oct 2022
+I am Dr. Sumaya Khan Mifty, an intern doctor at Dhaka Medical College & Hospital with an interest in integrating clinical medicine with genomic research.
 
-## Experience
+Alongside clinical practice, I am involved in research areas including environmental health, cardiovascular disease, epidemiology, and evidence synthesis. My work includes peer-reviewed publications, systematic reviews, international conference presentations, and collaborative research projects.
 
-I have developed X R packages, published Y papers. 
+I am expanding my skills in R programming, GitHub, and reproducible research to support future work in genomic medicine, bioinformatics, and cardiovascular genetics. I am interested in applying computational approaches to improve disease understanding and precision medicine.
+
+## Education
+
+**Dhaka Medical College**  
+Medicine
+
+**Holy Cross College, Dhaka**
+
+## Clinical Experience
+
+**Intern Doctor**  
+Dhaka Medical College & Hospital  
+Sep 2025 - Present  
+Dhaka, Bangladesh
+
+Clinical responsibilities include patient care, medical assessment, and hospital-based clinical training.
+
+## Research Interests
+
+- Genomic Medicine
+- Bioinformatics
+- Cardiovascular Genetics
+- Environmental Epidemiology
+- Clinical Research
+- Evidence Synthesis
+
+## Research Activities
+
+My research activities include:
+
+- Peer-reviewed publications
+- Systematic reviews
+- International conference presentations
+- Collaborative biomedical research projects
+
+
+## Technical Skills
+
+- R Programming
+- GitHub
+- Research Methodology
+- Reproducible Research Workflows
+
+## Professional Goals
+
+I aim to develop as a physician-scientist by combining clinical medicine, computational biology, and data-driven research to contribute to future advances in healthcare.
 
 :::
-

@@ -1,7 +1,53 @@
 ---
-title: "project_1"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Heart Failure Guideline Adherence Study"
+subtitle: "Assessing ESC Guideline Implementation in Bangladesh"
+author: "Dr. Sumaya Khan Mifty"
+date: "2026"
+image: ../../img/hf.jpg 
+format:
+  html:
+    toc: false
+    theme: cosmo
 ---
 
-In this project I use EHR to explore the hospital transfers. 
+## Overview
+
+Heart failure remains a major cardiovascular health challenge, with significant morbidity, mortality, and healthcare burden. Despite advances in evidence-based therapies, gaps remain between guideline recommendations and routine clinical practice.
+
+This ongoing study evaluates adherence to ESC guideline-directed heart failure management among hospitalised patients in tertiary care settings in Bangladesh.
+
+## Study Design
+
+| **Component** | **Description** |
+|---|---|
+| Design | Multicentre cross-sectional observational study |
+| Population | Adults with confirmed heart failure |
+| Setting | Tertiary referral hospitals in Bangladesh |
+| Sample size | 422 participants |
+| Duration | 12 months |
+
+## Research Objectives
+
+- Assess adherence to guideline-recommended heart failure management.
+- Evaluate implementation of pharmacological and non-pharmacological therapies.
+- Identify factors associated with variation in guideline adherence.
+
+## Methodology
+
+Data are collected using a structured guideline-based semi-structured questionnaire.
+
+## Expected Contribution
+
+This study aims to describe real-world heart failure care practices and identify areas where evidence-based recommendations can be strengthened in resource-limited healthcare settings.
+
+## Research Area
+
+- Cardiology
+- Heart Failure
+- Clinical Epidemiology
+- Healthcare Quality Improvement
+- Implementation Science
+
+## Project Status
+
+**Ongoing research project**

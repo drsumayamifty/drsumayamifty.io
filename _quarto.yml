@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "**Dr. Sumaya Khan Mifty**"
   image: "img/dp.jpg"
-  favicon: "img/favicon.png"
+  favicon: "img/dp.jpg"
   description: "Academic Website for Dr. Sumaya Khan Mifty"
 
   page-footer:
@@ -26,14 +26,12 @@ website:
         href: projects/index.qmd
       - text: "Publications"
         href: publications/index.qmd
-      - text: "Projects"
-        href: projects/index.qmd
       - text: "Leadership & Impact"
         href: leadership_impact/index.qmd
       - text: "Achievements"
         href: achievement/index.qmd 
 format:
   html:
-    theme: litera
+    theme: cosmo
     css: styles.css
     toc: true

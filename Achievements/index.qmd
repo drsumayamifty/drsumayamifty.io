@@ -1,0 +1,98 @@
+---
+title: "Achievements"
+image: ../img/.jpg
+---
+
+## Achievements
+
+::: {#hero-heading}
+
+My professional journey has included international medical exchange experiences, leadership training, research-related responsibilities, and contributions to medical education initiatives.
+
+## Professional Exchange Student - Thailand
+
+**IFMSA | International Federation of Medical Students' Associations**
+
+**Issued: October 2024**
+
+I completed a professional exchange program under the Standing Committee on Professional Exchange (SCOPE) of IFMSA.
+
+The program included a clinical rotation in **General Surgery** in Thailand, providing exposure to an international healthcare environment and clinical learning practices.
+
+**Skills developed:**
+
+- Clinical rotation
+- International medical collaboration
+- Cross-cultural healthcare experience
+
+---
+
+## Certificate of Participation as Sessions Team Member
+
+**IFMSA | International Federation of Medical Students' Associations**
+
+**Asia-Pacific Regional Meeting 2024**  
+**Bangkok, Thailand | July 2024**
+
+I participated as a Sessions Team member during the Asia-Pacific Regional Meeting 2024. I contributed to the SCOME (Standing Committee on Medical Education) sessions, supporting discussions focused on medical education and health equity.
+
+**Skills developed:**
+
+- Health advocacy
+- Medical education
+- Event coordination
+- International collaboration
+
+---
+
+## Training Medical Education Trainers (TMET) Workshop
+
+**IFMSA | International Federation of Medical Students' Associations**
+
+**Chandpur, Bangladesh | February 2024**
+
+I completed the Training Medical Education Trainers (TMET) workshop organized by IFMSA.
+
+The training focused on developing leadership skills, strengthening medical education practices, and preparing medical students to contribute to educational initiatives.
+
+**Skills developed:**
+
+- Medical education
+- Leadership
+- Training facilitation
+- Communication skills
+
+---
+
+## National Officer on Research Exchange (NORE)
+
+**Bangladesh Medical Students' Society (BMSS)**
+
+**Term: January 2024 - January 2025**
+
+I completed my term as National Officer on Research Exchange (NORE) at BMSS.
+
+During this role, I contributed to research exchange activities, supported research collaboration initiatives, and worked to encourage student participation in academic research.
+
+**Skills developed:**
+
+- Leadership
+- Project management
+- Research coordination
+- Team collaboration
+
+---
+
+## Areas of Professional Development
+
+Through these experiences, I have developed skills in:
+
+- Medical education and training
+- International collaboration
+- Clinical learning environments
+- Research coordination
+- Leadership and project management
+
+These achievements reflect my commitment to continuous learning, global health collaboration, and the integration of medical practice with research and education.
+
+:::

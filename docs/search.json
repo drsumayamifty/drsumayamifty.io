@@ -21,7 +21,7 @@
     "href": "about.html",
     "title": "Author",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers.",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nFrom lecture halls to operating theatres, and now to code, data, and research.\nI am Dr. Sumaya Khan Mifty, an intern doctor at Dhaka Medical College & Hospital with an interest in integrating clinical medicine with genomic research.\nAlongside clinical practice, I am involved in research areas including environmental health, cardiovascular disease, epidemiology, and evidence synthesis. My work includes peer-reviewed publications, systematic reviews, international conference presentations, and collaborative research projects.\nI am expanding my skills in R programming, GitHub, and reproducible research to support future work in genomic medicine, bioinformatics, and cardiovascular genetics. I am interested in applying computational approaches to improve disease understanding and precision medicine.\n\n\n\nDhaka Medical College\nMedicine\nHoly Cross College, Dhaka\n\n\n\nIntern Doctor\nDhaka Medical College & Hospital\nSep 2025 - Present\nDhaka, Bangladesh\nClinical responsibilities include patient care, medical assessment, and hospital-based clinical training.\n\n\n\n\nGenomic Medicine\nBioinformatics\nCardiovascular Genetics\nEnvironmental Epidemiology\nClinical Research\nEvidence Synthesis\n\n\n\n\nMy research activities include:\n\nPeer-reviewed publications\nSystematic reviews\nInternational conference presentations\nCollaborative biomedical research projects\n\n\n\n\n\nR Programming\nGitHub\nResearch Methodology\nReproducible Research Workflows\n\n\n\n\nI aim to develop as a physician-scientist by combining clinical medicine, computational biology, and data-driven research to contribute to future advances in healthcare.",
     "crumbs": [
       "About"
     ]
@@ -31,7 +31,7 @@
     "href": "about.html#education",
     "title": "Author",
     "section": "",
-    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022",
+    "text": "Dhaka Medical College\nMedicine\nHoly Cross College, Dhaka",
     "crumbs": [
       "About"
     ]
@@ -100,16 +100,16 @@
   {
     "objectID": "projects/project_2/index.html",
     "href": "projects/project_2/index.html",
-    "title": "project_2",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
     "section": "",
-    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+    "text": "This project investigates immune remodelling in cervical carcinoma using single-cell RNA sequencing (scRNA-seq) analysis.\nThe workflow includes preprocessing of single-cell transcriptomic data, quality control, normalization, clustering, cell type annotation, differential expression analysis, and immune microenvironment characterization."
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\nproject_1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nproject_2\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Cardiomyopathy Bulk RNA-seq Meta-analysis\n\n\nIntegrated analysis of bulk RNA sequencing datasets to identify gene expression signatures and molecular pathways associated with cardiomyopathy.\n\n\n\n\n\n\n\n\n\n\n\n\nHeart Failure Guideline Adherence Study\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingle-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma\n\n\nAnalysis of single-cell RNA sequencing data to characterize immune cell populations, tumour microenvironment changes, and molecular patterns associated with cervical carcinoma.\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Projects"
     ]
@@ -137,9 +137,9 @@
   {
     "objectID": "projects/project_1/index.html",
     "href": "projects/project_1/index.html",
-    "title": "project_1",
+    "title": "Heart Failure Guideline Adherence Study",
     "section": "",
-    "text": "In this project I use EHR to explore the hospital transfers."
+    "text": "Heart failure remains a major cardiovascular health challenge, with significant morbidity, mortality, and healthcare burden. Despite advances in evidence-based therapies, gaps remain between guideline recommendations and routine clinical practice.\nThis ongoing study evaluates adherence to ESC guideline-directed heart failure management among hospitalised patients in tertiary care settings in Bangladesh."
   },
   {
     "objectID": "talks/talk_1/index.html",
@@ -160,11 +160,7 @@
     "href": "about_template.html",
     "title": "About this template",
     "section": "",
-    "text": "TipAbout this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar.",
-    "crumbs": [
-      "About",
-      "This template"
-    ]
+    "text": "TipAbout this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
   },
   {
     "objectID": "index.html#bio",
@@ -178,9 +174,9 @@
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Ahmed, M. Z., Billah, M. M., Ferdous, J., & Hossain, M. J.* (2025). Pan-cancer analysis reveals immunological and prognostic significance of CCT5 in human tumors. Scientific Reports, 15, 14405. https://doi.org/10.1038/s41598-025-88339-z\nFariha, F. T. J., Fuad, M., Saha, C. S., Hossen, S., & Hossain, M. J.* (2025). Comprehensive bioinformatics analysis reveals prognostic significance and immunological roles of WNT gene family in breast cancer. Scientific Reports, 15, 34490. https://doi.org/10.1038/s41598-025-13315-6",
+    "text": "Khalil, I., Islam, M. R., Promi, S. A., Joy, A. D., Sayed, M. A., Acharjee, D., Al-Shammari, A. S., Rahman, M. T., Abrar, S., Bin Jamil, T.-S., Taseen, M., Biswas, S., Mifty, S. K., Al-Badri, S. G., Debnath, A., Hossain, M. I., & Akter, M. M. (2026). Comparative effectiveness of cholesteryl ester transfer protein (CETP) inhibitors on cardiovascular outcomes: A comprehensive Bayesian network meta-analysis and network meta-regression. Medicine, 105(20), e48627. https://doi.org/10.1097/MD.0000000000048627\nS. I. Chowdhury, S. K. Mifty, T. A. R. Khan, et al., “ Tolosa–Hunt Syndrome Presenting as Painful Unilateral Ophthalmoplegia in a 65-Year-Old Woman: A Case Report,” Clinical Case Reports 14, no. 2 (2026): e72012, https://doi.org/10.1002/ccr3.72012\nS. K. Mifty, S. I. Chowdhury, T. Rahman, et al., “ A Forgotten Foe Returns: The Diagnostic Odyssey of Kala-Azar Masquerading as Myelodysplastic Syndrome in a Post-Elimination Era,” Clinical Case Reports 13, no. 11 (2025): e71402, https://doi.org/10.1002/ccr3.71402\nChowdhury, S. I., Taj, F. Y., Esha, S. N., Mifty, S. K., & Khalil, I. (2025). Challenging diagnosis of adult-onset still’s disease (AOSD) in a young male: a case report highlighting the importance of early recognition and management. Annals of Medicine & Surgery, 87(10), 6712–6718. https://doi.org/10.1097/MS9.0000000000003752\nKhalil, I., Islam, M.R., Promi, S.A., Joy, A.D., Sayed, M.A., Acharjee, D., Al-shammari, A.S., Abrar, S., Jamil, T.-S.B., Taseen, M., Biswas, S., Mifty, S.K., Al-Badri, S.G., Debnath, A., Hossain, M.I. and Akter, M. (2025), Comparative Effectiveness of Cholesteryl Ester Transfer Protein (CETP) Inhibitors on Lipid Profiles in Adults With Hyperlipidemia: A Comprehensive Systematic Review and Frequentist Network Meta-Analysis of Randomized Controlled Trials. Clinical Cardiology, 48: e70204. https://doi.org/10.1002/clc.70204",
     "crumbs": [
-      "Publication"
+      "Publications"
     ]
   },
   {
@@ -188,9 +184,9 @@
     "href": "publications/index.html#peer-reviewed",
     "title": "Publications",
     "section": "",
-    "text": "Ahmed, M. Z., Billah, M. M., Ferdous, J., & Hossain, M. J.* (2025). Pan-cancer analysis reveals immunological and prognostic significance of CCT5 in human tumors. Scientific Reports, 15, 14405. https://doi.org/10.1038/s41598-025-88339-z\nFariha, F. T. J., Fuad, M., Saha, C. S., Hossen, S., & Hossain, M. J.* (2025). Comprehensive bioinformatics analysis reveals prognostic significance and immunological roles of WNT gene family in breast cancer. Scientific Reports, 15, 34490. https://doi.org/10.1038/s41598-025-13315-6",
+    "text": "Khalil, I., Islam, M. R., Promi, S. A., Joy, A. D., Sayed, M. A., Acharjee, D., Al-Shammari, A. S., Rahman, M. T., Abrar, S., Bin Jamil, T.-S., Taseen, M., Biswas, S., Mifty, S. K., Al-Badri, S. G., Debnath, A., Hossain, M. I., & Akter, M. M. (2026). Comparative effectiveness of cholesteryl ester transfer protein (CETP) inhibitors on cardiovascular outcomes: A comprehensive Bayesian network meta-analysis and network meta-regression. Medicine, 105(20), e48627. https://doi.org/10.1097/MD.0000000000048627\nS. I. Chowdhury, S. K. Mifty, T. A. R. Khan, et al., “ Tolosa–Hunt Syndrome Presenting as Painful Unilateral Ophthalmoplegia in a 65-Year-Old Woman: A Case Report,” Clinical Case Reports 14, no. 2 (2026): e72012, https://doi.org/10.1002/ccr3.72012\nS. K. Mifty, S. I. Chowdhury, T. Rahman, et al., “ A Forgotten Foe Returns: The Diagnostic Odyssey of Kala-Azar Masquerading as Myelodysplastic Syndrome in a Post-Elimination Era,” Clinical Case Reports 13, no. 11 (2025): e71402, https://doi.org/10.1002/ccr3.71402\nChowdhury, S. I., Taj, F. Y., Esha, S. N., Mifty, S. K., & Khalil, I. (2025). Challenging diagnosis of adult-onset still’s disease (AOSD) in a young male: a case report highlighting the importance of early recognition and management. Annals of Medicine & Surgery, 87(10), 6712–6718. https://doi.org/10.1097/MS9.0000000000003752\nKhalil, I., Islam, M.R., Promi, S.A., Joy, A.D., Sayed, M.A., Acharjee, D., Al-shammari, A.S., Abrar, S., Jamil, T.-S.B., Taseen, M., Biswas, S., Mifty, S.K., Al-Badri, S.G., Debnath, A., Hossain, M.I. and Akter, M. (2025), Comparative Effectiveness of Cholesteryl Ester Transfer Protein (CETP) Inhibitors on Lipid Profiles in Adults With Hyperlipidemia: A Comprehensive Systematic Review and Frequentist Network Meta-Analysis of Randomized Controlled Trials. Clinical Cardiology, 48: e70204. https://doi.org/10.1002/clc.70204",
     "crumbs": [
-      "Publication"
+      "Publications"
     ]
   },
   {
@@ -198,9 +194,9 @@
     "href": "publications/index.html#under-review",
     "title": "Publications",
     "section": "Under Review",
-    "text": "Under Review\n\nIslam, M. W., Rahman, M. M., Naznin, H., Hossain, M. S., Akter, T., Shatabde, Z. A., & Hossain, M. J.* (2025). Integrative bioinformatics analysis reveals COL13A1 and COL23A1 as potential diagnostic and prognostic biomarkers in thyroid cancer. [Submitted to Health Science Reports].\nIslam, M. W., Fariha, F. T. J., Ahmed, M. Z., Ferdous, J., Lota, H. B., Hossain, M. S., Kundu, P., Shahjahan, M., & Hossain, M. J.* (2025). Bioinformatics-driven multi-omics profiling of CDK1 and CDK6 identifies prognostic and therapeutic roles in breast cancer.[Under Review in Health Science Reports].",
+    "text": "Under Review",
     "crumbs": [
-      "Publication"
+      "Publications"
     ]
   },
   {
@@ -208,9 +204,9 @@
     "href": "publications/index.html#conference",
     "title": "Publications",
     "section": "Conference",
-    "text": "Conference\n\nPoster Presentations\n\n+Hossain, M. J., Das, M. (2024). Diagnostic and Electrophysiological Features of Hirayama Disease in Young Adult Male: A Case Report. International Conference of Public Health, Institute of Epidemiology, Disease Control and Research (IEDCR), Dhaka, Bangladesh\n+Das, M., Kajol, M. M., Mim, N. A., Maruf, M. F. I., Hirko, K., *Hossain, M. J. (2024). Level of knowledge regarding breast cancer and breast self‑examination among school and college‑going girls in Bangladesh: A cross‑sectional study. International Conference of Public Health, Institute of Epidemiology, Disease Control and Research (IEDCR), Dhaka, Bangladesh\n\n\n\nOral Presentations\n\n+Tuhin, M. A. A., Mim, N. A., Akter, N., Jamal, F., Sakib, M. N., Mehjabin, K., *Hossain, M. J. (2024). Exploring the Factors Influencing Heat Stress Risks Using the Discomfort Index Method in Bangladesh. International Conference on Environmental Science and Resource Management 2024 (ICESRM 2024), Department of Environmental Science and Resource Management, Mawlana Bhashani Science and Technology University, Bangladesh.\nMim, N. A., Akter, Tuhin, M. A. A., +Hossain, S., Alam, K. E., Mouli, N. J., *Hossain, M. J. (2024). Temporal Trends and Factors Influencing Diarrhea Prevalence Among Children in the Rangamati Hill Tract Region: A Time Series Analysis. International Conference on Environmental Science and Resource Management 2024 (ICESRM 2024), Department of Environmental Science and Resource Management, Mawlana Bhashani Science and Technology University, Bangladesh.",
+    "text": "Conference\n\nPoster Presentations\n\n\nOral Presentations",
     "crumbs": [
-      "Publication"
+      "Publications"
     ]
   },
   {
@@ -276,5 +272,370 @@
     "crumbs": [
       "Teaching"
     ]
+  },
+  {
+    "objectID": "projects/project_1/index.html#overview",
+    "href": "projects/project_1/index.html#overview",
+    "title": "Heart Failure Guideline Adherence Study",
+    "section": "",
+    "text": "Heart failure remains a major cardiovascular health challenge, with significant morbidity, mortality, and healthcare burden. Despite advances in evidence-based therapies, gaps remain between guideline recommendations and routine clinical practice.\nThis ongoing study evaluates adherence to ESC guideline-directed heart failure management among hospitalised patients in tertiary care settings in Bangladesh."
+  },
+  {
+    "objectID": "projects/project_1/index.html#study-design",
+    "href": "projects/project_1/index.html#study-design",
+    "title": "Heart Failure Guideline Adherence Study",
+    "section": "Study Design",
+    "text": "Study Design\n\n\n\nComponent\nDescription\n\n\n\n\nDesign\nMulticentre cross-sectional observational study\n\n\nPopulation\nAdults with confirmed heart failure\n\n\nSetting\nTertiary referral hospitals in Bangladesh\n\n\nSample size\n422 participants\n\n\nDuration\n12 months"
+  },
+  {
+    "objectID": "projects/project_1/index.html#research-objectives",
+    "href": "projects/project_1/index.html#research-objectives",
+    "title": "Heart Failure Guideline Adherence Study",
+    "section": "Research Objectives",
+    "text": "Research Objectives\n\nAssess adherence to guideline-recommended heart failure management.\nEvaluate implementation of pharmacological and non-pharmacological therapies.\nIdentify factors associated with variation in guideline adherence."
+  },
+  {
+    "objectID": "projects/project_1/index.html#methodology",
+    "href": "projects/project_1/index.html#methodology",
+    "title": "Heart Failure Guideline Adherence Study",
+    "section": "Methodology",
+    "text": "Methodology\nData are collected using a structured guideline-based semi-structured questionnaire."
+  },
+  {
+    "objectID": "projects/project_1/index.html#expected-contribution",
+    "href": "projects/project_1/index.html#expected-contribution",
+    "title": "Heart Failure Guideline Adherence Study",
+    "section": "Expected Contribution",
+    "text": "Expected Contribution\nThis study aims to describe real-world heart failure care practices and identify areas where evidence-based recommendations can be strengthened in resource-limited healthcare settings."
+  },
+  {
+    "objectID": "projects/project_1/index.html#research-area",
+    "href": "projects/project_1/index.html#research-area",
+    "title": "Heart Failure Guideline Adherence Study",
+    "section": "Research Area",
+    "text": "Research Area\n\nCardiology\nHeart Failure\nClinical Epidemiology\nHealthcare Quality Improvement\nImplementation Science"
+  },
+  {
+    "objectID": "projects/project_1/index.html#project-status",
+    "href": "projects/project_1/index.html#project-status",
+    "title": "Heart Failure Guideline Adherence Study",
+    "section": "Project Status",
+    "text": "Project Status\nOngoing research project"
+  },
+  {
+    "objectID": "projects/project_2/index.html#overview",
+    "href": "projects/project_2/index.html#overview",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
+    "section": "",
+    "text": "This project investigates immune remodelling in cervical carcinoma using single-cell RNA sequencing (scRNA-seq) analysis.\nThe workflow includes preprocessing of single-cell transcriptomic data, quality control, normalization, clustering, cell type annotation, differential expression analysis, and immune microenvironment characterization."
+  },
+  {
+    "objectID": "projects/project_2/index.html#objectives",
+    "href": "projects/project_2/index.html#objectives",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
+    "section": "Objectives",
+    "text": "Objectives\n\nIdentify major cell populations in cervical carcinoma samples.\nCharacterize immune cell infiltration patterns.\nExplore transcriptional changes associated with tumour progression.\nIdentify potential immune-related molecular signatures."
+  },
+  {
+    "objectID": "projects/project_2/index.html#methods",
+    "href": "projects/project_2/index.html#methods",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
+    "section": "Methods",
+    "text": "Methods\nThe analysis pipeline includes:\n\nSingle-cell RNA sequencing data processing\nQuality control and filtering\nDimensionality reduction using PCA and UMAP\nCell clustering\nMarker gene identification\nCell type annotation\nDifferential expression analysis"
+  },
+  {
+    "objectID": "projects/project_2/index.html#tools-and-technologies",
+    "href": "projects/project_2/index.html#tools-and-technologies",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
+    "section": "Tools and Technologies",
+    "text": "Tools and Technologies\n\nR\nSingle-cell RNA sequencing analysis\nBioinformatics workflows\nData visualization"
+  },
+  {
+    "objectID": "projects/project_2/index.html#repository",
+    "href": "projects/project_2/index.html#repository",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
+    "section": "Repository",
+    "text": "Repository\nSource code and analysis files are available on GitHub:\nView GitHub Repository"
+  },
+  {
+    "objectID": "projects/project_2/index.html#results",
+    "href": "projects/project_2/index.html#results",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
+    "section": "Results",
+    "text": "Results\nThe analysis provides insights into cellular heterogeneity and immune landscape changes within cervical carcinoma tissues."
+  },
+  {
+    "objectID": "projects/project_2/index.html#publication-research-context",
+    "href": "projects/project_2/index.html#publication-research-context",
+    "title": "Single-Cell RNA-seq Reveals Immune Remodelling in Cervical Carcinoma",
+    "section": "Publication / Research Context",
+    "text": "Publication / Research Context\nThis project contributes to understanding tumour immune interactions through computational analysis of single-cell transcriptomic data."
+  },
+  {
+    "objectID": "projects/project_3/index.html",
+    "href": "projects/project_3/index.html",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "",
+    "text": "This project performs a bulk RNA sequencing meta-analysis to investigate molecular changes associated with cardiomyopathy.\nThe workflow integrates transcriptomic datasets to identify differentially expressed genes, biological pathways, and potential molecular signatures related to cardiac disease."
+  },
+  {
+    "objectID": "projects/project_3/index.html#overview",
+    "href": "projects/project_3/index.html#overview",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "",
+    "text": "This project performs a bulk RNA sequencing meta-analysis to investigate molecular changes associated with cardiomyopathy.\nThe workflow integrates transcriptomic datasets to identify differentially expressed genes, biological pathways, and potential molecular signatures related to cardiac disease."
+  },
+  {
+    "objectID": "projects/project_3/index.html#objectives",
+    "href": "projects/project_3/index.html#objectives",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "Objectives",
+    "text": "Objectives\n\nIdentify differentially expressed genes associated with cardiomyopathy.\nIntegrate multiple bulk RNA-seq datasets.\nExplore biological pathways involved in cardiac dysfunction.\nCharacterize molecular mechanisms underlying cardiomyopathy."
+  },
+  {
+    "objectID": "projects/project_3/index.html#methods",
+    "href": "projects/project_3/index.html#methods",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "Methods",
+    "text": "Methods\nThe analysis workflow includes:\n\nRNA-seq dataset collection and preprocessing\nQuality assessment\nExpression normalization\nDifferential gene expression analysis\nFunctional enrichment analysis\nPathway analysis\nData visualization"
+  },
+  {
+    "objectID": "projects/project_3/index.html#tools-and-technologies",
+    "href": "projects/project_3/index.html#tools-and-technologies",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "Tools and Technologies",
+    "text": "Tools and Technologies\n\nR programming\nBioconductor packages\nBulk RNA-seq analysis workflows\nDifferential expression analysis\nStatistical genomics"
+  },
+  {
+    "objectID": "projects/project_3/index.html#key-analysis-components",
+    "href": "projects/project_3/index.html#key-analysis-components",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "Key Analysis Components",
+    "text": "Key Analysis Components\nThe project investigates:\n\nGene expression differences between cardiomyopathy and control samples\nBiological processes associated with cardiac remodeling\nPotential candidate genes and pathways for further investigation"
+  },
+  {
+    "objectID": "projects/project_3/index.html#repository",
+    "href": "projects/project_3/index.html#repository",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "Repository",
+    "text": "Repository\nThe complete analysis workflow and source code are available on GitHub:\nView GitHub Repository"
+  },
+  {
+    "objectID": "projects/project_3/index.html#research-context",
+    "href": "projects/project_3/index.html#research-context",
+    "title": "Cardiomyopathy Bulk RNA-seq Meta-analysis",
+    "section": "Research Context",
+    "text": "Research Context\nBulk RNA-seq meta-analysis provides a computational approach to integrate transcriptomic datasets and understand molecular alterations associated with cardiovascular diseases."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Author",
+    "section": "",
+    "text": "From lecture halls to operating theatres, and now to code, data, and research.\nI am Dr. Sumaya Khan Mifty, an intern doctor at Dhaka Medical College & Hospital with an interest in integrating clinical medicine with genomic research.\nAlongside clinical practice, I am involved in research areas including environmental health, cardiovascular disease, epidemiology, and evidence synthesis. My work includes peer-reviewed publications, systematic reviews, international conference presentations, and collaborative research projects.\nI am expanding my skills in R programming, GitHub, and reproducible research to support future work in genomic medicine, bioinformatics, and cardiovascular genetics. I am interested in applying computational approaches to improve disease understanding and precision medicine.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#clinical-experience",
+    "href": "about.html#clinical-experience",
+    "title": "Author",
+    "section": "",
+    "text": "Intern Doctor\nDhaka Medical College & Hospital\nSep 2025 - Present\nDhaka, Bangladesh\nClinical responsibilities include patient care, medical assessment, and hospital-based clinical training.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Author",
+    "section": "",
+    "text": "Genomic Medicine\nBioinformatics\nCardiovascular Genetics\nEnvironmental Epidemiology\nClinical Research\nEvidence Synthesis",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#research-activities",
+    "href": "about.html#research-activities",
+    "title": "Author",
+    "section": "",
+    "text": "My research activities include:\n\nPeer-reviewed publications\nSystematic reviews\nInternational conference presentations\nCollaborative biomedical research projects",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "Author",
+    "section": "",
+    "text": "R Programming\nGitHub\nResearch Methodology\nReproducible Research Workflows",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#professional-goals",
+    "href": "about.html#professional-goals",
+    "title": "Author",
+    "section": "",
+    "text": "I aim to develop as a physician-scientist by combining clinical medicine, computational biology, and data-driven research to contribute to future advances in healthcare.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "leadership_impact/index.html",
+    "href": "leadership_impact/index.html",
+    "title": "Leadership & Impact",
+    "section": "",
+    "text": "My journey in medicine extends beyond clinical practice. I am passionate about strengthening research culture, supporting medical education, and creating opportunities for collaboration among healthcare students.",
+    "crumbs": [
+      "Leadership & Impact"
+    ]
+  },
+  {
+    "objectID": "leadership_impact/index.html#leadership-impact",
+    "href": "leadership_impact/index.html#leadership-impact",
+    "title": "Leadership & Impact",
+    "section": "",
+    "text": "My journey in medicine extends beyond clinical practice. I am passionate about strengthening research culture, supporting medical education, and creating opportunities for collaboration among healthcare students.",
+    "crumbs": [
+      "Leadership & Impact"
+    ]
+  },
+  {
+    "objectID": "leadership_impact/index.html#national-officer-on-research-exchange",
+    "href": "leadership_impact/index.html#national-officer-on-research-exchange",
+    "title": "Leadership & Impact",
+    "section": "National Officer on Research Exchange",
+    "text": "National Officer on Research Exchange\nBangladesh Medical Students’ Society (BMSS)\nAs the National Officer on Research Exchange, I contributed to promoting research opportunities and international collaborations among medical students.\nMy responsibilities included:\n\nFacilitating research exchange initiatives\nSupporting students interested in research activities\nDeveloping international academic collaborations\nEncouraging participation in evidence-based research",
+    "crumbs": [
+      "Leadership & Impact"
+    ]
+  },
+  {
+    "objectID": "leadership_impact/index.html#medical-education-trainer",
+    "href": "leadership_impact/index.html#medical-education-trainer",
+    "title": "Leadership & Impact",
+    "section": "Medical Education Trainer",
+    "text": "Medical Education Trainer\nIFMSA Medical Education Trainer\nAs a Medical Education Trainer, I contribute to improving medical education through training activities focused on student development and effective learning approaches.\nMy work focuses on:\n\nMedical education development\nPeer learning and mentorship\nStudent engagement\nImproving learning practices among future healthcare professionals",
+    "crumbs": [
+      "Leadership & Impact"
+    ]
+  },
+  {
+    "objectID": "leadership_impact/index.html#research-advocacy",
+    "href": "leadership_impact/index.html#research-advocacy",
+    "title": "Leadership & Impact",
+    "section": "Research Advocacy",
+    "text": "Research Advocacy\nI actively support the development of research skills among medical students. Through collaboration, mentorship, and academic activities, I aim to encourage a culture where healthcare professionals actively contribute to scientific discovery.",
+    "crumbs": [
+      "Leadership & Impact"
+    ]
+  },
+  {
+    "objectID": "leadership_impact/index.html#vision",
+    "href": "leadership_impact/index.html#vision",
+    "title": "Leadership & Impact",
+    "section": "Vision",
+    "text": "Vision\nI aim to contribute to healthcare advancement by integrating clinical medicine, biomedical research, and emerging technologies such as genomic medicine and bioinformatics.",
+    "crumbs": [
+      "Leadership & Impact"
+    ]
+  },
+  {
+    "objectID": "docs/leadership_impact/index.html",
+    "href": "docs/leadership_impact/index.html",
+    "title": "Leadership & Impact",
+    "section": "",
+    "text": "My journey in medicine extends beyond clinical practice. I am passionate about strengthening research culture, supporting medical education, and creating opportunities for collaboration among healthcare students."
+  },
+  {
+    "objectID": "docs/leadership_impact/index.html#leadership-impact",
+    "href": "docs/leadership_impact/index.html#leadership-impact",
+    "title": "Leadership & Impact",
+    "section": "",
+    "text": "My journey in medicine extends beyond clinical practice. I am passionate about strengthening research culture, supporting medical education, and creating opportunities for collaboration among healthcare students."
+  },
+  {
+    "objectID": "docs/leadership_impact/index.html#national-officer-on-research-exchange",
+    "href": "docs/leadership_impact/index.html#national-officer-on-research-exchange",
+    "title": "Leadership & Impact",
+    "section": "National Officer on Research Exchange",
+    "text": "National Officer on Research Exchange\nBangladesh Medical Students’ Society (BMSS)\nAs the National Officer on Research Exchange, I contributed to promoting research opportunities and international collaborations among medical students.\nMy responsibilities included:\n\nFacilitating research exchange initiatives\nSupporting students interested in research activities\nDeveloping international academic collaborations\nEncouraging participation in evidence-based research"
+  },
+  {
+    "objectID": "docs/leadership_impact/index.html#medical-education-trainer",
+    "href": "docs/leadership_impact/index.html#medical-education-trainer",
+    "title": "Leadership & Impact",
+    "section": "Medical Education Trainer",
+    "text": "Medical Education Trainer\nIFMSA Medical Education Trainer\nAs a Medical Education Trainer, I contribute to improving medical education through training activities focused on student development and effective learning approaches.\nMy work focuses on:\n\nMedical education development\nPeer learning and mentorship\nStudent engagement\nImproving learning practices among future healthcare professionals"
+  },
+  {
+    "objectID": "docs/leadership_impact/index.html#research-advocacy",
+    "href": "docs/leadership_impact/index.html#research-advocacy",
+    "title": "Leadership & Impact",
+    "section": "Research Advocacy",
+    "text": "Research Advocacy\nI actively support the development of research skills among medical students. Through collaboration, mentorship, and academic activities, I aim to encourage a culture where healthcare professionals actively contribute to scientific discovery."
+  },
+  {
+    "objectID": "docs/leadership_impact/index.html#vision",
+    "href": "docs/leadership_impact/index.html#vision",
+    "title": "Leadership & Impact",
+    "section": "Vision",
+    "text": "Vision\nI aim to contribute to healthcare advancement by integrating clinical medicine, biomedical research, and emerging technologies such as genomic medicine and bioinformatics."
+  },
+  {
+    "objectID": "Achievements/index.html",
+    "href": "Achievements/index.html",
+    "title": "Achievements",
+    "section": "",
+    "text": "My professional journey has included international medical exchange experiences, leadership training, research-related responsibilities, and contributions to medical education initiatives.\n\n\nIFMSA | International Federation of Medical Students’ Associations\nIssued: October 2024\nI completed a professional exchange program under the Standing Committee on Professional Exchange (SCOPE) of IFMSA.\nThe program included a clinical rotation in General Surgery in Thailand, providing exposure to an international healthcare environment and clinical learning practices.\nSkills developed:\n\nClinical rotation\nInternational medical collaboration\nCross-cultural healthcare experience\n\n\n\n\n\nIFMSA | International Federation of Medical Students’ Associations\nAsia-Pacific Regional Meeting 2024\nBangkok, Thailand | July 2024\nI participated as a Sessions Team member during the Asia-Pacific Regional Meeting 2024. I contributed to the SCOME (Standing Committee on Medical Education) sessions, supporting discussions focused on medical education and health equity.\nSkills developed:\n\nHealth advocacy\nMedical education\nEvent coordination\nInternational collaboration\n\n\n\n\n\nIFMSA | International Federation of Medical Students’ Associations\nChandpur, Bangladesh | February 2024\nI completed the Training Medical Education Trainers (TMET) workshop organized by IFMSA.\nThe training focused on developing leadership skills, strengthening medical education practices, and preparing medical students to contribute to educational initiatives.\nSkills developed:\n\nMedical education\nLeadership\nTraining facilitation\nCommunication skills\n\n\n\n\n\nBangladesh Medical Students’ Society (BMSS)\nTerm: January 2024 - January 2025\nI completed my term as National Officer on Research Exchange (NORE) at BMSS.\nDuring this role, I contributed to research exchange activities, supported research collaboration initiatives, and worked to encourage student participation in academic research.\nSkills developed:\n\nLeadership\nProject management\nResearch coordination\nTeam collaboration\n\n\n\n\n\nThrough these experiences, I have developed skills in:\n\nMedical education and training\nInternational collaboration\nClinical learning environments\nResearch coordination\nLeadership and project management\n\nThese achievements reflect my commitment to continuous learning, global health collaboration, and the integration of medical practice with research and education."
+  },
+  {
+    "objectID": "Achievements/index.html#achievements",
+    "href": "Achievements/index.html#achievements",
+    "title": "Achievements",
+    "section": "",
+    "text": "My professional journey has included international medical exchange experiences, leadership training, research-related responsibilities, and contributions to medical education initiatives.\n\n\nIFMSA | International Federation of Medical Students’ Associations\nIssued: October 2024\nI completed a professional exchange program under the Standing Committee on Professional Exchange (SCOPE) of IFMSA.\nThe program included a clinical rotation in General Surgery in Thailand, providing exposure to an international healthcare environment and clinical learning practices.\nSkills developed:\n\nClinical rotation\nInternational medical collaboration\nCross-cultural healthcare experience\n\n\n\n\n\nIFMSA | International Federation of Medical Students’ Associations\nAsia-Pacific Regional Meeting 2024\nBangkok, Thailand | July 2024\nI participated as a Sessions Team member during the Asia-Pacific Regional Meeting 2024. I contributed to the SCOME (Standing Committee on Medical Education) sessions, supporting discussions focused on medical education and health equity.\nSkills developed:\n\nHealth advocacy\nMedical education\nEvent coordination\nInternational collaboration\n\n\n\n\n\nIFMSA | International Federation of Medical Students’ Associations\nChandpur, Bangladesh | February 2024\nI completed the Training Medical Education Trainers (TMET) workshop organized by IFMSA.\nThe training focused on developing leadership skills, strengthening medical education practices, and preparing medical students to contribute to educational initiatives.\nSkills developed:\n\nMedical education\nLeadership\nTraining facilitation\nCommunication skills\n\n\n\n\n\nBangladesh Medical Students’ Society (BMSS)\nTerm: January 2024 - January 2025\nI completed my term as National Officer on Research Exchange (NORE) at BMSS.\nDuring this role, I contributed to research exchange activities, supported research collaboration initiatives, and worked to encourage student participation in academic research.\nSkills developed:\n\nLeadership\nProject management\nResearch coordination\nTeam collaboration\n\n\n\n\n\nThrough these experiences, I have developed skills in:\n\nMedical education and training\nInternational collaboration\nClinical learning environments\nResearch coordination\nLeadership and project management\n\nThese achievements reflect my commitment to continuous learning, global health collaboration, and the integration of medical practice with research and education."
+  },
+  {
+    "objectID": "Achievements/index.html#professional-exchange-student---thailand",
+    "href": "Achievements/index.html#professional-exchange-student---thailand",
+    "title": "Achievements",
+    "section": "",
+    "text": "IFMSA | International Federation of Medical Students’ Associations\nIssued: October 2024\nI completed a professional exchange program under the Standing Committee on Professional Exchange (SCOPE) of IFMSA.\nThe program included a clinical rotation in General Surgery in Thailand, providing exposure to an international healthcare environment and clinical learning practices.\nSkills developed:\n\nClinical rotation\nInternational medical collaboration\nCross-cultural healthcare experience"
+  },
+  {
+    "objectID": "Achievements/index.html#certificate-of-participation-as-sessions-team-member",
+    "href": "Achievements/index.html#certificate-of-participation-as-sessions-team-member",
+    "title": "Achievements",
+    "section": "",
+    "text": "IFMSA | International Federation of Medical Students’ Associations\nAsia-Pacific Regional Meeting 2024\nBangkok, Thailand | July 2024\nI participated as a Sessions Team member during the Asia-Pacific Regional Meeting 2024. I contributed to the SCOME (Standing Committee on Medical Education) sessions, supporting discussions focused on medical education and health equity.\nSkills developed:\n\nHealth advocacy\nMedical education\nEvent coordination\nInternational collaboration"
+  },
+  {
+    "objectID": "Achievements/index.html#training-medical-education-trainers-tmet-workshop",
+    "href": "Achievements/index.html#training-medical-education-trainers-tmet-workshop",
+    "title": "Achievements",
+    "section": "",
+    "text": "IFMSA | International Federation of Medical Students’ Associations\nChandpur, Bangladesh | February 2024\nI completed the Training Medical Education Trainers (TMET) workshop organized by IFMSA.\nThe training focused on developing leadership skills, strengthening medical education practices, and preparing medical students to contribute to educational initiatives.\nSkills developed:\n\nMedical education\nLeadership\nTraining facilitation\nCommunication skills"
+  },
+  {
+    "objectID": "Achievements/index.html#national-officer-on-research-exchange-nore",
+    "href": "Achievements/index.html#national-officer-on-research-exchange-nore",
+    "title": "Achievements",
+    "section": "",
+    "text": "Bangladesh Medical Students’ Society (BMSS)\nTerm: January 2024 - January 2025\nI completed my term as National Officer on Research Exchange (NORE) at BMSS.\nDuring this role, I contributed to research exchange activities, supported research collaboration initiatives, and worked to encourage student participation in academic research.\nSkills developed:\n\nLeadership\nProject management\nResearch coordination\nTeam collaboration"
+  },
+  {
+    "objectID": "Achievements/index.html#areas-of-professional-development",
+    "href": "Achievements/index.html#areas-of-professional-development",
+    "title": "Achievements",
+    "section": "",
+    "text": "Through these experiences, I have developed skills in:\n\nMedical education and training\nInternational collaboration\nClinical learning environments\nResearch coordination\nLeadership and project management\n\nThese achievements reflect my commitment to continuous learning, global health collaboration, and the integration of medical practice with research and education."
   }
 ]
